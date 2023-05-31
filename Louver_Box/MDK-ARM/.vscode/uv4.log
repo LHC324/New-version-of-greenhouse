@@ -1,0 +1,14 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Louver_Box'
+compiling freertos.c...
+../Core/Src/freertos.c(224): warning:  #177-D: variable "pshell"  was declared but never referenced
+    Shell *pshell = (Shell *)argument;
+../Core/Src/freertos.c(243): warning:  #177-D: function "Get_Lora_Status"  was declared but never referenced
+  static bool __inline Get_Lora_Status(void)
+../Core/Src/freertos.c: 2 warnings, 0 errors
+compiling small_modbus.c...
+linking...
+Program Size: Code=33528 RO-data=4796 RW-data=476 ZI-data=18236  
+FromELF: creating hex file...
+"Louver_Box\Louver_Box.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:04

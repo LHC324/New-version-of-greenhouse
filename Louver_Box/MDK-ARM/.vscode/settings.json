@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "small_modbus_port.h": "c",
+        "small_modbus.h": "c",
+        "small_modbus_cfg.h": "c",
+        "lora.h": "c",
+        "cmsis_os.h": "c",
+        "tool.h": "c"
+    }
+}

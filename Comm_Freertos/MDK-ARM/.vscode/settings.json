@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "small_modbus_port.h": "c",
+        "small_modbus.h": "c",
+        "small_modbus_cfg.h": "c",
+        "shell_port.h": "c",
+        "shell.h": "c",
+        "string.h": "c",
+        "cm_backtrace.h": "c",
+        "tool.h": "c",
+        "lora.h": "c",
+        "usart.h": "c",
+        "cmsis_os.h": "c",
+        "typeinfo": "c",
+        "main.h": "c",
+        "task.h": "c",
+        "shell_cfg.h": "c",
+        "at.h": "c",
+        "type_traits": "c",
+        "stdbool.h": "c",
+        "at_util.h": "c",
+        "comdef.h": "c"
+    },
+    "RTT_Studio.Build.Parallel_Jobs": "6"
+}
